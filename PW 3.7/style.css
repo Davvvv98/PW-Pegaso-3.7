@@ -16,3 +16,17 @@ body {
 footer {
     font-size: 0.9rem;
 }
+
+.row{
+    justify-content: space-around
+}
+
+.carousel {
+    width: 50%;
+    margin: 0 auto; /* centra il carousel */
+}
+
+.carousel-container img {
+    height: auto;
+    object-fit: cover;
+}
